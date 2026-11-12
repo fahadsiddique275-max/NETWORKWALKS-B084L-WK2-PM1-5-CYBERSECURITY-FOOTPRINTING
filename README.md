@@ -1,0 +1,2 @@
+# NETWORKWALKS-B084L-WK2-PM1-5-CYBERSECURITY-FOOTPRINTING
+Cybersecurity footprinting and scanning
